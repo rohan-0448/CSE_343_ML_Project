@@ -1,1 +1,1 @@
-# CSR_343_ML_Project
+# CSE_343_ML_Project
